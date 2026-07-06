@@ -1,6 +1,6 @@
 {
-  "competition": "playground-s6e7",
-  "metric": "",
-  "target": "",
+  "competition": "playground-series-s6e7",
+  "metric": "balanced_accuracy",
+  "target": "health_condition",
   "end_date": ""
 }
