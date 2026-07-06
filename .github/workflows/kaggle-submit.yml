@@ -47,4 +47,4 @@ jobs:
         env:
           NEON_DATABASE_URL: ${{ secrets.NEON_DATABASE_URL }}
         run: |
-          python submit.py
+          python automation/submit.py
